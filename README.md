@@ -2,8 +2,8 @@
 #### Custom recovery 
 
 
-| Recovery         |Laterst version of recovery|Status    |Download link                                                       |
-|------------------|:-------------------------:| :----:   |:------------------------------------------------------------------:|
+| Recovery         |Latest version of recovery|Status    |Download link                                                        |
+|------------------|:-------------------------:| :----:  |:-------------------------------------------------------------------:|
 |OrangeFox Recovery| 11                        |Unofficial|[Download](https://github.com/Tostisto/Releases/releases/tag/R11)   |
 |SkyHawk Recovery  | 2.3.1                     |Official  |[Download](https://sourceforge.net/projects/shrp/files/Markw/)      |
 
