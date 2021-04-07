@@ -5,7 +5,7 @@
 | Recovery         |Latest version of recovery|Status    |Download link                                                          |
 |------------------|:-------------------------:| :----:  |:---------------------------------------------------------------------:|
 |OrangeFox Recovery| 11.0_1                    |Unofficial|[Download](https://github.com/Tostisto/Releases/releases/tag/R11_1)   |
-|SkyHawk Recovery  | 3.0                       |Official  |[Download](https://sourceforge.net/projects/shrp/files/Markw/)        |
+|SHRP Recovery     | 3.1                       |Official  |[Download](https://sourceforge.net/projects/shrp/files/Markw/)        |
  
 Custom recovery device tree: [device_xiaomi_markw_twrp](https://github.com/Tostisto/device_xiaomi_markw_twrp)
 
